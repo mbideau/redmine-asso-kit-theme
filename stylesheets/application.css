@@ -531,6 +531,12 @@ tr.unread td.subject::before,
 #content tr.unread td.subject::before {
   background-color: #55B6BA;
 }
+#top-menu a span.count.updated,
+a span.count.updated,
+tr.updated td.subject::before,
+#content tr.updated td.subject::before {
+  background-color: #5390CA;
+}
 
 /* gantt */
 .gantt_subjects img.gravatar {
