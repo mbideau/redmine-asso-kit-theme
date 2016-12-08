@@ -1,5 +1,5 @@
 # redmine-asso-kit-theme
-A theme for Redmine that is made for the Asso-Kit set and plugin
+A theme for [Redmine](http://www.redmine.org/) that is made for the [Asso-Kit set](https://github.com/mbideau/asso-kit) and [plugin](https://github.com/mbideau/redmine-asso-kit).
 
 ## Installation
 
